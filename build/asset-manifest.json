@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.12407df4.css",
+    "main.js": "/Myportfolio/static/js/main.b2cb8aa1.js",
+    "static/media/eranadan_thakkaram_2.jpg": "/Myportfolio/static/media/eranadan_thakkaram_2.3bb2450321f5b8aa6228.jpg",
+    "static/media/Time-table-page.png": "/Myportfolio/static/media/Time-table-page.fe1d59109fc1823c401e.png",
+    "static/media/discord-bot.png": "/Myportfolio/static/media/discord-bot.01128868f983e05fc4a7.png",
+    "static/media/hero_image.png": "/Myportfolio/static/media/hero_image.c484f08d208c0e5abdbe.png",
+    "static/media/hero_img.png": "/Myportfolio/static/media/hero_img.c484f08d208c0e5abdbe.png",
+    "static/media/Home.png": "/Myportfolio/static/media/Home.111d08bbed310df04a82.png",
+    "static/media/expense-tracker.png": "/Myportfolio/static/media/expense-tracker.b09ff05f49a1f29234fc.png",
+    "static/media/studentprofile.jpeg": "/Myportfolio/static/media/studentprofile.f603bf5bed32e3ba792c.jpeg",
+    "static/media/logo.svg": "/Myportfolio/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "static/media/brackets.svg": "/Myportfolio/static/media/brackets.f8dfa28d73feda909272a47a90777057.svg",
+    "static/media/sketch.svg": "/Myportfolio/static/media/sketch.40fea6cf6b4e197cf4ec7840c003bdf4.svg",
+    "static/media/digital-marketing.svg": "/Myportfolio/static/media/digital-marketing.91f7c7b33ce81b7f6036ac92a7cc5939.svg",
+    "index.html": "/Myportfolio/index.html",
+    "static/media/app-development.svg": "/Myportfolio/static/media/app-development.6fc1b87f712ce926271a808d9222a5bd.svg",
+    "main.12407df4.css.map": "/Myportfolio/static/css/main.12407df4.css.map",
+    "main.b2cb8aa1.js.map": "/Myportfolio/static/js/main.b2cb8aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12407df4.css",
+    "static/js/main.b2cb8aa1.js"
+  ]
+}
