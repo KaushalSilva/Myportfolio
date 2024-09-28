@@ -1,6 +1,6 @@
 {
   "homepage": "https://kaushalsilva.github.io/Myportfolio",
-  "name": "portfolio",
+  "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
